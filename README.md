@@ -1,9 +1,7 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html>
 
 <head>
-
-<link type="text/css"; rel="stylesheet"; href="format1.css";/>
 
 <h1> Fifty Shades Of Grey </h1>
 <p>
