@@ -3,8 +3,8 @@
 
 <head>
 
+<link type="text/css"; rel="stylesheet"; href="format1.css";/>
 
-<link type="text/css"; rel="stylesheet"; href="format1.css"; />
 <h1> Fifty Shades Of Grey </h1>
 <p>
 <dd> While studying English Literature, Anastasia Steele's life changes forever when she meets the tantalizing and sexy billionaire, Christian Grey. While Mr. Grey wrestles with the demons inside himself, Anastasia must wrestle with the female demons of his past.</dd>
